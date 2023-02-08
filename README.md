@@ -3,7 +3,7 @@
 
 ### Hands-on practice
 
-#### Tutorials practice the following:
+#### Tutorials assignments:
 <ol>
 <li> Methods: Identification of relevant attributes, methods for segmentation and regressions
 
@@ -16,7 +16,7 @@
 <li>Strategy: Data analytics and competitive advantage, limits to data analytics
 </ol>
 
-#### Additional Assignments include :
+#### Additional assignments:
 <ol>
 <li>Predictive Model for M&A deal completion
 <li>Company Data Challenge
