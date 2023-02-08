@@ -1,4 +1,4 @@
-# Strategy_Analytics
+# Strategy Analytics
 ## University Course in Digital Business with Data Science Focus
 
 ### Hands-on practice
