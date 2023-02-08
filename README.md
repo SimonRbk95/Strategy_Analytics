@@ -12,8 +12,6 @@
 <li>Strategy: Evaluating and visualizing the performance of analytical strategies
 
 <li>Methods: Bayesian methods, text mining, co-occurrence, profiling
-
-<li>Strategy: Data analytics and competitive advantage, limits to data analytics
 </ol>
 
 #### Additional assignments:
