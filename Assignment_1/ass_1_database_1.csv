@@ -1,0 +1,105 @@
+,Deal status,"Deal value
+th EUR","Acquiror stock price 3 months prior to rumour
+EUR","Target stock price 3 months prior to rumour
+EUR",Deal sub-type,Target major sector,"Target operating revenue/turnover
+th EUR
+Last avail. yr"
+0,Withdrawn,"134,715,295.00*",77.4007117975805,36.27074416607737,Unsolicited bid,"Chemicals, rubber, plastics, non-metallic products",2280999.9999999865
+56,Withdrawn,"26,900,000.00*",92.41097730630239,66.48749500000001,Unsolicited bid,"Chemicals, rubber, plastics, non-metallic products",9587000.0
+60,Withdrawn,"24,864,340.32*",26.868310970054715,76.759092641151,Public takeover,Transport,9837539.208
+63,Withdrawn,24369761.06,50.831414982733,140.72652613726703,Unsolicited bid,"Machinery, equipment, furniture, recycling",7961014.100400001
+66,Withdrawn,"22,330,973.99*",35.842115811850526,81.36674115177907,Public takeover,"Food, beverages, tobacco",7921008.749388
+70,Withdrawn,"17,400,448.14*",23.584174132635997,18.412981528591,Public takeover,Transport,9382833.348
+73,Withdrawn,"17,175,919.63*",18.01801833258492,21.33316755856,Public takeover,"Chemicals, rubber, plastics, non-metallic products",7463356.571999999
+103,Withdrawn,"12,061,403.46*",52.91,46.143233026358004,Recommended bid,Other services,12616454.205599999
+107,Withdrawn,"10,932,000.73*",52.63801873800001,23.151389369,Hostile bid,"Gas, Water, Electricity",23829235.836
+111,Withdrawn,"9,915,371.73*",52.63801873800001,23.151389369,Hostile bid,"Gas, Water, Electricity",23829235.836
+115,Withdrawn,9459608.05,71.44153868268947,47.849300646104005,Leveraged buy out,"Machinery, equipment, furniture, recycling",8868666.663185999
+119,Withdrawn,7847400,29.867607404301676,30.169001,Public takeover,"Primary Sector (agriculture, mining, etc.)",322929.0
+122,Withdrawn,"6,577,362.00*",29.559999,24.935024782858445,Recommended bid,"Machinery, equipment, furniture, recycling",3431749.0031999997
+136,Withdrawn,5567847.32,8.198489531968999,37.65286818133198,Public takeover - Withdrawn,"Machinery, equipment, furniture, recycling",7476702.692731501
+144,Withdrawn,"5,242,052.58*",23.373092879037998,13.894965773415999,Hostile bid,"Education, Health",17203774.14
+148,Withdrawn,"4,924,366.36*",23.373092879037998,13.894965773415999,Public takeover,"Education, Health",17203774.14
+152,Withdrawn,"4,746,506.01*",115.16114237930447,22.121535814248297,Hostile bid,"Machinery, equipment, furniture, recycling",3980630.072898401
+156,Withdrawn,"4,664,258.50*",16.726457953945854,37.353116783535896,Public takeover - Withdrawn,"Gas, Water, Electricity",1270471.1288639999
+160,Withdrawn,"4,280,227.58*",115.16114237930447,22.121535814248297,Public takeover,"Machinery, equipment, furniture, recycling",3980630.072898401
+172,Withdrawn,"3,888,621.21*",18.577832422680004,19.285921937151006,Public takeover,"Gas, Water, Electricity",2440755.9885239997
+180,Withdrawn,"3,695,130.21*",49.106133302106755,23.777167278731163,Public takeover - Withdrawn,"Primary Sector (agriculture, mining, etc.)",4902170.6328
+184,Withdrawn,"3,394,564.00*",4.256801099030642,3.9370080281518787,Public takeover,Metals & metal products,2939046.508860001
+187,Withdrawn,"3,342,998.15*",267.02251764644944,26.61913253016431,Public takeover - Withdrawn,"Machinery, equipment, furniture, recycling",641128.7660000001
+191,Withdrawn,"3,340,204.04*",21.77752452367463,7.543630774499998,Hostile bid,"Chemicals, rubber, plastics, non-metallic products",5772557.112
+219,Withdrawn,"2,771,912.53*",21.77752452367463,7.543630774499998,Hostile bid,"Chemicals, rubber, plastics, non-metallic products",5772557.112
+223,Withdrawn,"2,636,772.92*",21.77752452367463,7.543630774499998,Unsolicited bid,"Chemicals, rubber, plastics, non-metallic products",5772557.112
+241,Withdrawn,"2,209,800.00*",50.653756937617004,23.006574882538995,Public takeover,"Publishing, printing",3447994.8047999996
+255,Withdrawn,"1,930,009.99*",49.88916269128001,0.8655703632745739,Public takeover,"Food, beverages, tobacco",1068960.667719029
+271,Withdrawn,"1,566,477.40*",2.3216095059741604,3.129735148898768,Public takeover - Withdrawn,"Education, Health",363.05055056007365
+276,Withdrawn,"1,497,337.80*",2.2620007007419707,21.36090632239344,Public takeover - Withdrawn,Wholesale & retail trade,12288993.751598
+280,Withdrawn,"1,489,894.21*",2.2620007007419707,21.36090632239344,Exit,Wholesale & retail trade,12288993.751598
+284,Withdrawn,"1,465,416.00*",2.2620007007419707,21.36090632239344,Hostile bid,Wholesale & retail trade,12288993.751598
+293,Withdrawn,"1,351,200.00*",36.564315673500005,9.91392,Hostile bid,"Publishing, printing",3157193.9359999998
+307,Withdrawn,"1,280,200.00*",36.564315673500005,9.91392,Public takeover,"Publishing, printing",3157193.9359999998
+321,Completed,"1,047,150.06*",10.14313067934229,9.635167855178091,Public takeover,"Primary Sector (agriculture, mining, etc.)",17973.683868
+341,Completed,826150.46,6.44160195,6.44160195,Reverse take-over,Other services,1939474.1216759998
+380,Withdrawn,"600,882.38*",14.976375854315057,23.152255821963003,Exit - new stake,"Primary Sector (agriculture, mining, etc.)",821661.4353359999
+390,Withdrawn,"563,796.20*",18.091253954494725,1.7163274481067632,Scheme of arrangement,Other services,87030.42298516401
+409,Completed Assumed,"507,157.34*",59.50107010379813,44.80452025940457,Asset sale,"Primary Sector (agriculture, mining, etc.)",6598091.051999999
+410,Withdrawn,"499,099.05*",7.298938589840788,3.4061713419257007,Public takeover - Withdrawn,Metals & metal products,2939046.508860001
+418,Withdrawn,"481,220.35*",15.703697371303377,6.11832399663,Public takeover,Other services,32822.70852924
+420,Withdrawn,"477,111.00*",56.36551956498998,3.64,Public takeover,"Education, Health",4042.121
+423,Completed,"476,143.38*",30.980324168793498,8.596619928,Tender offer,Other services,1558370.2541000003
+467,Withdrawn,"346,030.43*",64.18668996191502,10.557726696059001,Public takeover,"Machinery, equipment, furniture, recycling",398261.004475
+471,Withdrawn,"335,472.53*",9.56754019585,4.055290201722824,Patent sale,Wholesale & retail trade,98995.12159288
+502,Withdrawn,"240,885.58*",8.3335696015,9.43966156679,Public takeover,Other services,40008.11866
+515,Withdrawn,"215,467.70*",15.147164572864,0.354687592934137,Public takeover,"Food, beverages, tobacco",865186.9756527683
+543,Completed,"171,460.69*",6.941624726535,6.941624726535,Recommended bid,Other services,400494.32639999996
+545,Completed,"171,354.86*",1.8927456,1.8927456,Reverse take-over,"Chemicals, rubber, plastics, non-metallic products",1365.787539006
+554,Withdrawn,"159,550.40*",21.6,8.72692177401,Public takeover,Wholesale & retail trade,334971.57441675005
+563,Completed,"157,426.15*",10.315009530547998,10.315009530547998,Public takeover,Other services,37497.10344099999
+579,Completed,"133,632.61*",5.36630315669,5.36630315669,Reverse take-over,"Primary Sector (agriculture, mining, etc.)",8268.5773534
+593,Withdrawn,"129,051.27*",0.9856665073800001,4.103293164056,Public takeover - Withdrawn,"Machinery, equipment, furniture, recycling",30072.974879999994
+597,Withdrawn,126696.75,476.23544421010524,0.04721957581817241,Recommended bid,Insurance companies,173870.38867187503
+602,Completed Assumed,"125,789.11*",11.90835329576349,11.90835329576349,Exit - new stake,Other services,643.8872167
+614,Completed,"119,992.21*",6.252542899573047,3.2611056246519405,Scheme of arrangement,"Gas, Water, Electricity",512808.29863350186
+630,Completed,"98,958.80*",0.911498,0.911498,Reverse take-over,"Machinery, equipment, furniture, recycling",227420.84072399998
+635,Completed,"87,200.35*",0.8085631050000001,0.8085631050000001,Reverse take-over,Other services,118.85451995999999
+660,Withdrawn,"79,747.02*",18.1071233406,5.2752,Recommended bid,Banks,393.091591151
+663,Withdrawn,"78,931.87*",1.43609505,26.827454245078005,Public takeover,Other services,1532918.5220159998
+706,Completed,"55,629.23*",9.369215295485974,7.246141878774866,Public takeover,Other services,935.6925317669173
+760,Withdrawn,44064.81,923218919.9999999,0.12946918614300001,Public takeover - Withdrawn,"Chemicals, rubber, plastics, non-metallic products",0.0
+839,Withdrawn,"30,983.70*",11.655981,0.607311,Public takeover - Withdrawn,Other services,1560203.5223879998
+849,Completed,"28,119.03*",265.82399999999996,265.82399999999996,Reverse take-over,"Food, beverages, tobacco",45.480000000000004
+864,Withdrawn,"26,117.59*",7.3469989999999985,0.05716822885858364,Patent sale,"Machinery, equipment, furniture, recycling",77.20180393315196
+872,Withdrawn,25104.73,2.3729396839418926,3.9411305464893083,Public takeover - Withdrawn,Metals & metal products,0.0
+875,Completed,24847.83,17.380819071601824,107.39680185729176,Scheme of arrangement,"Primary Sector (agriculture, mining, etc.)",70180.27618810728
+903,Withdrawn,"19,850.39*",1.302782,6.5870999999999995,Unsolicited bid,"Primary Sector (agriculture, mining, etc.)",370512.876132
+918,Completed,"19,127.80*",25.263987983761947,13.8953026344,Public takeover,Banks,25517.386523999998
+925,Withdrawn,"17,580.37*",6.4266719991705,0.8870228450720002,Public takeover,"Chemicals, rubber, plastics, non-metallic products",69788.078808
+968,Completed,"16,824.03*",0.628287,0.628287,Reverse take-over,"Chemicals, rubber, plastics, non-metallic products",11488.651234199999
+978,Completed,15104.13,1.793642488330341,1.793642488330341,Reverse take-over,Other services,0.0
+981,Withdrawn,"14,633.78*",3.1647648,0.06922923,Public takeover,Other services,3854.4197959999997
+997,Completed,"13,103.11*",0.14180377724081825,0.14180377724081825,Reverse take-over,"Primary Sector (agriculture, mining, etc.)",295.77980633802815
+1016,Withdrawn,"11,825.57*",5.548899999999999,5.12256,Public takeover,Banks,1428.5710319999998
+1030,Completed,"10,476.32*",0.03980538,0.03980538,Reverse take-over,Other services,88.71620352
+1060,Withdrawn,"8,892.86*",5.801892259959943,0.058709624059118476,Public takeover - Withdrawn,"Primary Sector (agriculture, mining, etc.)",0.0
+1072,Withdrawn,"7,929.54*",0.7705678173850001,0.24881203958484063,Scheme of arrangement,Metals & metal products,13395.875286436069
+1085,Withdrawn,7493.96,2.405727220223,0.11167685553246685,Public takeover,Metals & metal products,0.0
+1099,Completed,7015.09,0.5293368606966617,0.5293368606966617,Reverse take-over,"Primary Sector (agriculture, mining, etc.)",9257.408383303538
+1106,Completed,6797.03,0.07011604406222824,0.07011604406222824,Reverse take-over,"Machinery, equipment, furniture, recycling",17589.163774582204
+1116,Completed,6539.97,0.10655987248254227,0.10655987248254227,Reverse take-over,"Machinery, equipment, furniture, recycling",8.432989985928705
+1128,Completed,"5,710.75*",0.8154476425575832,0.8154476425575832,Reverse take-over,"Machinery, equipment, furniture, recycling",15331.055579999998
+1135,Withdrawn,"5,599.85*",0.6127502795699019,0.8941461448910644,Public takeover,Metals & metal products,0.0
+1153,Withdrawn,"4,906.75*",1.227514347129703,13.428746924212716,Exit,Other services,3400518.8920930624
+1159,Completed,"4,901.56*",1.227514347129703,13.428746924212716,Exit,Other services,3400518.8920930624
+1167,Withdrawn,4729.96,0.11745670384000001,0.051581703397,Public takeover - Withdrawn,"Primary Sector (agriculture, mining, etc.)",3661.07735778
+1181,Completed,"3,616.81*",0.3395613089366739,0.3395613089366739,Reverse take-over,"Chemicals, rubber, plastics, non-metallic products",55.51474726778081
+1183,Completed,"3,511.03*",3.426992558056129,3.426992558056129,Reverse take-over,"Primary Sector (agriculture, mining, etc.)",21880.593057131755
+1189,Withdrawn,"3,205.15*",72.80656898416758,0.4431704199036288,Public takeover,Metals & metal products,0.0
+1231,Withdrawn,"2,194.78*",72.80656898416758,0.08965060240963857,Public takeover - Withdrawn,Metals & metal products,0.0
+1259,Completed,"1,389.88*",5.769758854847581,3.110013936927772,Exit,Other services,49840.26740257421
+1281,Withdrawn,818.76*,22.462699487065816,0.03437144160168473,Public takeover - Withdrawn,Metals & metal products,0.0
+1300,Withdrawn,454.09*,0.04777656,0.013170843000000002,Public takeover - Withdrawn,Other services,1844.214
+1302,Completed Assumed,433.43*,1.474936515291937,1.474936515291937,Reverse take-over,Metals & metal products,0.0
+1304,Withdrawn,409.78*,0.08383092050203675,5.029855230122204,Public takeover,"Primary Sector (agriculture, mining, etc.)",1521.141325469502
+1315,Completed Assumed,324.73*,0.02927409695909841,0.02927409695909841,Reverse take-over,Metals & metal products,0.0
+1345,Completed,143.00*,4.45,0.17,Patent sale,"Textiles, wearing apparel, leather",0.0
+1351,Completed Assumed,99.63,0.0361975618350448,0.0361975618350448,Reverse take-over,Metals & metal products,0.0
