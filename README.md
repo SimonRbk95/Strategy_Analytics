@@ -17,5 +17,5 @@
 #### Additional assignments:
 <ol>
 <li>Predictive Model for M&A deal completion
-<li>Company Data Challenge
+<li>Movies Data Analytics and Income Prediction Model
 </ol>
